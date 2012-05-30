@@ -1,0 +1,1 @@
+javascript:var%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('src','https://raw.github.com/donohoe/text-only/master/imgless.js');document.body.appendChild(e);void(0);
